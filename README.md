@@ -17,7 +17,7 @@ This 3D Portfolio is a personal website built by Snehil Dwivedi using Next.js, T
 ## Live Demo
 
 Explore the live version of this portfolio here:  
-[https://snehil-dwivedi-myportfolio.vercel.app/](https://snehil-dwivedi-myportfolio.vercel.app/)
+[https://snehil-3d-portfolio.vercel.app/]
 
 ## Key Features
 
