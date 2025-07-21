@@ -85,7 +85,8 @@ npm run dev
 
 Made with ❤️ by **Snehil Dwivedi**
 
-- 🔗 [`GitHub Profile`](https://github.com/snehildwivedi03)
-- 📧 [`Email Me`](mailto:snehildwivedi04@gmail.com)
-- 🌐 [`LinkedIN`](https://www.linkedin.com/in/snehil-dwivedi-/)
+- 🔗 [GitHub Profile](https://github.com/snehildwivedi03)
+- 📧 [Email Me](mailto:snehildwivedi04@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/snehil-dwivedi)
+
 ```
