@@ -33,9 +33,14 @@
     "react-parallax-tilt": "^1.7.154",
     "react-type-animation": "^3.1.0",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.155.0"
+    "three": "^0.160.1",
+    "three-mesh-bvh": "^0.8.0"
   },
   "devDependencies": {
+    "@types/node": "24.0.15",
+    "@types/offscreencanvas": "^2019.7.3",
+    "@types/trusted-types": "^2.0.7",
+    "@types/webxr": "^0.5.22",
     "autoprefixer": "^10.4.15",
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3"
