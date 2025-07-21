@@ -440,7 +440,7 @@ const heroTexts = [
   500,
   "Problem Solver",
   500,
-  "Constant Leraner",
+  "Constant Learner",
   500,
 ];
 
